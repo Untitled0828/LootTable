@@ -1,1 +1,2 @@
 Made By Untitled
+LootTable [thisver]
